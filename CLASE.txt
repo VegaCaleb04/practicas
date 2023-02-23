@@ -1,0 +1,6 @@
+GET http://localhost:50497/api/waaDatosPersonales
+GET http://localhost:50497/api/waaDatosPersonales/{id}
+POST http://localhost:50497/api/waaDatosPersonales
+PUT http://localhost:50497/api/waaDatosPersonales/{id}
+DELETE http://localhost:50497/api/waaDatosPersonales/{id}
+POST http://localhost:50497/fncDatosPersonales

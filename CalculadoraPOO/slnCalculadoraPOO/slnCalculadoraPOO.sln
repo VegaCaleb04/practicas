@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pryCalculadoraPOO.ConsoleApp", "pryCalculadoraPOO.ConsoleApp\pryCalculadoraPOO.ConsoleApp.csproj", "{F041A77B-2701-46E9-B3DE-12AD138A46B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pryCalculadoraPOO.Calculadora", "pryCalculadoraPOO.Calculadora\pryCalculadoraPOO.Calculadora.csproj", "{9088E4D2-899A-41F0-8B68-9B493FF2E8EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pryCalculadoraPOO.WindowApp", "pryCalculadoraPOO.WindowApp\pryCalculadoraPOO.WindowApp.csproj", "{A0D69AAF-C369-4185-9954-9F9AAA450291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryCalculadoraPOO.Model", "pryCalculadoraPOO.Model\pryCalculadoraPOO.Model.csproj", "{7EB9D515-044C-4D0D-BECD-D9D3F0EBC7D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F041A77B-2701-46E9-B3DE-12AD138A46B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F041A77B-2701-46E9-B3DE-12AD138A46B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F041A77B-2701-46E9-B3DE-12AD138A46B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F041A77B-2701-46E9-B3DE-12AD138A46B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9088E4D2-899A-41F0-8B68-9B493FF2E8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9088E4D2-899A-41F0-8B68-9B493FF2E8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9088E4D2-899A-41F0-8B68-9B493FF2E8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9088E4D2-899A-41F0-8B68-9B493FF2E8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D69AAF-C369-4185-9954-9F9AAA450291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D69AAF-C369-4185-9954-9F9AAA450291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D69AAF-C369-4185-9954-9F9AAA450291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D69AAF-C369-4185-9954-9F9AAA450291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB9D515-044C-4D0D-BECD-D9D3F0EBC7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB9D515-044C-4D0D-BECD-D9D3F0EBC7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB9D515-044C-4D0D-BECD-D9D3F0EBC7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB9D515-044C-4D0D-BECD-D9D3F0EBC7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF95A73-8E68-4F4D-9DE9-DFB15A7EBB9D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/calebvega191
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = pryCalculadoraPOO.ConsoleApp\\pryCalculadoraPOO.ConsoleApp.csproj
+		SccProjectName1 = pryCalculadoraPOO.ConsoleApp
+		SccLocalPath1 = pryCalculadoraPOO.ConsoleApp
+		SccProjectUniqueName2 = pryCalculadoraPOO.Calculadora\\pryCalculadoraPOO.Calculadora.csproj
+		SccProjectName2 = pryCalculadoraPOO.Calculadora
+		SccLocalPath2 = pryCalculadoraPOO.Calculadora
+		SccProjectUniqueName3 = pryCalculadoraPOO.WindowApp\\pryCalculadoraPOO.WindowApp.csproj
+		SccProjectName3 = pryCalculadoraPOO.WindowApp
+		SccLocalPath3 = pryCalculadoraPOO.WindowApp
+		SccProjectUniqueName4 = pryCalculadoraPOO.Model\\pryCalculadoraPOO.Model.csproj
+		SccProjectName4 = pryCalculadoraPOO.Model
+		SccLocalPath4 = pryCalculadoraPOO.Model
+	EndGlobalSection
+EndGlobal

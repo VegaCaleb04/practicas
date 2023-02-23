@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pryCalculadoraPOO.WindowApp/1.0.0": {
+        "dependencies": {
+          "pryCalculadoraPOO.Calculadora": "1.0.0",
+          "pryCalculadoraPOO.Model": "1.0.0"
+        },
+        "runtime": {
+          "pryCalculadoraPOO.WindowApp.dll": {}
+        }
+      },
+      "pryCalculadoraPOO.Calculadora/1.0.0": {
+        "dependencies": {
+          "pryCalculadoraPOO.Model": "1.0.0"
+        },
+        "runtime": {
+          "pryCalculadoraPOO.Calculadora.dll": {}
+        }
+      },
+      "pryCalculadoraPOO.Model/1.0.0": {
+        "runtime": {
+          "pryCalculadoraPOO.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pryCalculadoraPOO.WindowApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pryCalculadoraPOO.Calculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pryCalculadoraPOO.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

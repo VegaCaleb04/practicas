@@ -1,0 +1,10 @@
+C:\POO202102\DatosPersonalesSOA\slnDatosPersonalesSOACalebVega.BackEnd\pryDatosPersonalesSOA.Model\bin\Debug\pryDatosPersonalesSOA.Model.dll
+C:\POO202102\DatosPersonalesSOA\slnDatosPersonalesSOACalebVega.BackEnd\pryDatosPersonalesSOA.Model\bin\Debug\pryDatosPersonalesSOA.Model.pdb
+C:\POO202102\DatosPersonalesSOA\slnDatosPersonalesSOACalebVega.BackEnd\pryDatosPersonalesSOA.Model\obj\Debug\pryDatosPersonalesSOA.Model.dll
+C:\POO202102\DatosPersonalesSOA\slnDatosPersonalesSOACalebVega.BackEnd\pryDatosPersonalesSOA.Model\obj\Debug\pryDatosPersonalesSOA.Model.pdb
+C:\Users\USUARIO\OneDrive\Documentos\USBMED_PREGRADO\PROGRAMACIÓN POO\POO202102\DatosPersonalesSOA\slnDatosPersonalesSOACalebVega.BackEnd\pryDatosPersonalesSOA.Model\bin\Debug\pryDatosPersonalesSOA.Model.dll
+C:\Users\USUARIO\OneDrive\Documentos\USBMED_PREGRADO\PROGRAMACIÓN POO\POO202102\DatosPersonalesSOA\slnDatosPersonalesSOACalebVega.BackEnd\pryDatosPersonalesSOA.Model\bin\Debug\pryDatosPersonalesSOA.Model.pdb
+C:\Users\USUARIO\OneDrive\Documentos\USBMED_PREGRADO\PROGRAMACIÓN POO\POO202102\DatosPersonalesSOA\slnDatosPersonalesSOACalebVega.BackEnd\pryDatosPersonalesSOA.Model\obj\Debug\pryDatosPersonalesSOA.Model.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\USBMED_PREGRADO\PROGRAMACIÓN POO\POO202102\DatosPersonalesSOA\slnDatosPersonalesSOACalebVega.BackEnd\pryDatosPersonalesSOA.Model\obj\Debug\pryDatosPersonalesSOA.Model.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\USBMED_PREGRADO\PROGRAMACIÓN POO\POO202102\DatosPersonalesSOA\slnDatosPersonalesSOACalebVega.BackEnd\pryDatosPersonalesSOA.Model\obj\Debug\pryDatosPersonalesSOA.Model.dll
+C:\Users\USUARIO\OneDrive\Documentos\USBMED_PREGRADO\PROGRAMACIÓN POO\POO202102\DatosPersonalesSOA\slnDatosPersonalesSOACalebVega.BackEnd\pryDatosPersonalesSOA.Model\obj\Debug\pryDatosPersonalesSOA.Model.pdb

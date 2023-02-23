@@ -1,0 +1,16 @@
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.exe
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.deps.json
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.runtimeconfig.json
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.runtimeconfig.dev.json
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.dll
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.pdb
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.Calculadora.dll
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.Calculadora.pdb
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\obj\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.csprojAssemblyReference.cache
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\obj\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.AssemblyInfoInputs.cache
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\obj\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.AssemblyInfo.cs
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\obj\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.csproj.CopyComplete
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\obj\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.dll
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\obj\Debug\netcoreapp3.1\pryCalculadoraPOO.ConsoleApp.pdb
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.Model.dll
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.ConsoleApp\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.Model.pdb

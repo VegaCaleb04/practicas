@@ -1,0 +1,8 @@
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.Model\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.Model.deps.json
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.Model\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.Model.dll
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.Model\bin\Debug\netcoreapp3.1\pryCalculadoraPOO.Model.pdb
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.Model\obj\Debug\netcoreapp3.1\pryCalculadoraPOO.Model.AssemblyInfoInputs.cache
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.Model\obj\Debug\netcoreapp3.1\pryCalculadoraPOO.Model.AssemblyInfo.cs
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.Model\obj\Debug\netcoreapp3.1\pryCalculadoraPOO.Model.dll
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.Model\obj\Debug\netcoreapp3.1\pryCalculadoraPOO.Model.pdb
+C:\POO202102\CalculadoraPOO\slnCalculadoraPOO\pryCalculadoraPOO.Model\obj\Debug\netcoreapp3.1\pryCalculadoraPOO.Model.csprojAssemblyReference.cache

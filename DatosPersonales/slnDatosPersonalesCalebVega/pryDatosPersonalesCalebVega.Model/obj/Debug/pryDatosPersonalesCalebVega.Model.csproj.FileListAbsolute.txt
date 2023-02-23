@@ -1,0 +1,4 @@
+C:\POO202102\DatosPersonales\slnDatosPersonalesCalebVega\pryDatosPersonalesCalebVega.Model\bin\Debug\pryDatosPersonalesCalebVega.Model.dll
+C:\POO202102\DatosPersonales\slnDatosPersonalesCalebVega\pryDatosPersonalesCalebVega.Model\bin\Debug\pryDatosPersonalesCalebVega.Model.pdb
+C:\POO202102\DatosPersonales\slnDatosPersonalesCalebVega\pryDatosPersonalesCalebVega.Model\obj\Debug\pryDatosPersonalesCalebVega.Model.dll
+C:\POO202102\DatosPersonales\slnDatosPersonalesCalebVega\pryDatosPersonalesCalebVega.Model\obj\Debug\pryDatosPersonalesCalebVega.Model.pdb
